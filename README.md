@@ -5,6 +5,7 @@
 - [Magento Open Source Mainainer](https://magento.com/magento-contributors?#/community-maintainers)
 - [Adobe Certified Expert-Adobe Commerce Business Practitioner (Magento 2 Certified Solution Specialist)](https://www.credly.com/badges/155ed0f2-693f-43ea-848d-5913151e6f0c)
 - [Magento 1 Certified Developer](https://u.magento.com/certification/directory/dev/1163933/)
+- Maintainer for [Strategery-Inc/Magento2-InfiniteScroll](https://github.com/Strategery-Inc/Magento2-InfiniteScroll) Magento2 extension
 
 ### Badges
 [<img src="https://user-images.githubusercontent.com/1873745/126448205-5ab1b86d-52cd-4a43-b3cb-101496af9ea9.png" width="80" height="80">](https://www.credly.com/badges/155ed0f2-693f-43ea-848d-5913151e6f0c)
