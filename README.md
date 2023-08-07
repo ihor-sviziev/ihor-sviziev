@@ -2,7 +2,7 @@
 
 - Team Lead at [@ven-com](https://github.com/ven-com)
 - Magento Master [2019](https://magento.com/blog/technical/meet-2019-magento-masters-makers) - [2020](https://magento.com/blog/technical/meet-2020-magento-masters-makers)
-- [Magento Open Source Mainainer](https://magento.com/magento-contributors?#/community-maintainers)
+- [Magento Open Source Maintainer](https://magento.com/magento-contributors?#/community-maintainers)
 - [Adobe Certified Expert-Adobe Commerce Business Practitioner (Magento 2 Certified Solution Specialist)](https://www.credly.com/badges/155ed0f2-693f-43ea-848d-5913151e6f0c)
 - [Magento 1 Certified Developer](https://u.magento.com/certification/directory/dev/1163933/)
 - Maintainer for [Strategery-Inc/Magento2-InfiniteScroll](https://github.com/Strategery-Inc/Magento2-InfiniteScroll) Magento2 extension
